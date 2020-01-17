@@ -31,7 +31,7 @@ function doExport() {
 		}
 		if (urlS.isEmpty()) {
 			var library_id = item.libraryID ? item.libraryID : 0;
-			urlS =  '<a href="zotero://open-pdf/library/items/'+library_id+'_'+item.key+'">';
+			urlS =  '<a href="zotero://select/items/'+library_id+'_'+item.key+'">';
 		}
 		Zotero.write(urlS);
 		// Zotero.write('<a href="zotero://select/items/');
