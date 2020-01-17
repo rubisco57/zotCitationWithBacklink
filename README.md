@@ -11,11 +11,11 @@ Create a [translator](https://www.zotero.org/support/dev/translators) for Zotero
   Kaare Brandt Petersen, and Michael Syskind Pedersen. The Matrix Cookbook, 2012.
 </a>
 
-<a href="zotero://open-pdf/library/items/1_EHZVEDE?=155">
+<a href="zotero://open-pdf/library/items/1_EHZVEDE?page=155">
   Kaare Brandt Petersen, and Michael Syskind Pedersen. The Matrix Cookbook, 2012.
 </a>
 ```
 ## Questions/Issues
 1. How to setup a developement environment in order to get IntelliSense for a zotero translator?
-2. How to incorporate an existing citation style into a translator? 
+2. How to incorporate an existing citation style into a translator?
 3. Can user window for user interaction (for entring page number) be brought up from within the translator?
