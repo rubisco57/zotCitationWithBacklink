@@ -19,5 +19,6 @@ Create a [translator](https://www.zotero.org/support/dev/translators) for Zotero
 1. How to setup a developement environment in order to get IntelliSense for a zotero translator?
 2. How to incorporate an existing citation style into a translator?
 3. Can a window for user interaction (entry of page number) be brought up from within a translator?
+4. How to get an item's attachment when it has not been directly selected and retrieve its ID?
 
 I am thankful for any suggestion/hint regarding my questions above (via Github Issues or the [Zotero Forum](https://forums.zotero.org/discussion/80895/backlinks-to-zotero-entries-in-bibliographic-references)).
